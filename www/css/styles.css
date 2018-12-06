@@ -1,6 +1,6 @@
 body {
   background-color: #fff;
-  font-family: Montserrat, sans-serif;
+  font-family: Arial Rounded MT,Helvetica Rounded,Arial,sans-serif;
   color: #333;
   font-size: 14px;
   line-height: 20px;
@@ -804,7 +804,7 @@ a {
 }
 
 .page-content {
-  background-color: #fff;
+  background-image: url('../image/bg_segar.jpeg');
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
