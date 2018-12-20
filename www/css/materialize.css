@@ -2224,7 +2224,7 @@
  *    without disabling user zoom.
  */
 html {
-  font-family: sans-serif;
+  font-family: 'Arial Rounded MT', Arial, Helvetica, sans-serif;
   /* 1 */
   -ms-text-size-adjust: 100%;
   /* 2 */
